@@ -13,12 +13,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801305354567-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801305354567)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AI_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Saifulislamsayem19?tab=repositories)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saifulislamsayem19&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
-<img src="https://img.shields.io/github/followers/Saifulislamsayem19?style=for-the-badge&color=blue" alt="Followers">
-<img src="https://img.shields.io/github/stars/Saifulislamsayem19?style=for-the-badge&color=yellow" alt="Stars">
-
 </div>
 
 ---
