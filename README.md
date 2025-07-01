@@ -17,18 +17,11 @@
 
 ---
 
-## 🌟 Professional Summary
+## 🎯 Professional Summary
 
 <img align="right" alt="AI Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 **Machine Learning Engineer** with a BSc in Computer Science & Engineering and hands-on experience in deploying end-to-end AI solutions. Currently working as a Junior AI Developer at Sparktech Agency, specializing in LLM integration, RAG pipelines, and scalable GenAI solutions. Passionate about transforming complex problems into innovative AI-driven solutions for real-world applications.
-
-### 🎯 Core Value Propositions:
-- 🚀 **Production-Ready AI:** Deployed 6+ ML models serving real-world applications
-- 📊 **Research Excellence:** Published thesis achieving 97.93% accuracy in medical AI
-- 💡 **Innovation Leader:** Pioneered voice-enabled AI systems with <2s response time
-- 🏆 **Proven Track Record:** 30% performance improvement in predictive models
-- 🌐 **Full-Stack AI Capability:** From research to deployment, I deliver complete solutions
 
 <br clear="right"/>
 
