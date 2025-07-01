@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saiful_Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifulislamsayem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saiful_Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful2019)
 [![Email](https://img.shields.io/badge/Email-saifulislamsayem19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifulislamsayem19@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801305354567-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801305354567)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AI_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Saifulislamsayem19?tab=repositories)
@@ -268,7 +268,7 @@
 ### 🤝 **Connect With Me**
 
 [![Email](https://img.shields.io/badge/Email_Me-saifulislamsayem19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifulislamsayem19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifulislamsayem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful2019)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801305354567)
 [![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-Book_Time-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](mailto:saifulislamsayem19@gmail.com?subject=Meeting%20Request)
 
