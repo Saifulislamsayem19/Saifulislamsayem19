@@ -100,7 +100,7 @@
 ### 🚀 **MLOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-47A248?style=flat-square&logo=sql&logoColor=white)
 
 **Specializations:**
 - Model Deployment
