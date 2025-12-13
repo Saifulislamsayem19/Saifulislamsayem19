@@ -33,12 +33,16 @@
 ### **Junior AI Developer** | Sparktech Agency
 *March 2025 – Present | Dhaka, Bangladesh*
 
-- 🤖 Developing AI/ML solutions including chatbots, predictive models, and NLP pipelines tailored to business needs
-- 🧠 Building GenAI applications using Hugging Face, LangChain, and RAG with effective prompt engineering
-- 🎯 Designing AI-powered applications for image, audio, and video processing with recognition and STT/TTS capabilities
-- 🚀 Deploying ML models into production with vector database integration and optimized API interactions
-- 📊 Managing data preprocessing, feature engineering, and hyperparameter tuning for optimal performance
-- 👥 Collaborating with cross-functional teams to seamlessly integrate AI solutions into production environments
+- Built RAG-based GenAI systems using LangChain, LlamaIndex, and REST APIs with FAISS/Pinecone
+vector databases, improving retrieval accuracy by 30% and reducing query time by 45%.
+- Developed AI agents and multimodal AI pipelines for text, image, audio, and video processing, reducing
+manual workflows by 40%.
+- Integrated GPT, Claude, and open-source LLMs into production applications and implemented
+unit/integration tests for reliable RAG and LLM workflows.
+- Optimized CNN and transformer models through feature engineering and hyperparameter tuning,
+enhancing F1-score by 25% on a 15K sample dataset.
+- Collaborated with international clients and cross-functional engineering teams to deliver AI-driven
+solutions hosted on AWS with Dockerized deployments.
 
 ## 🛠️ Technical Expertise 
 
