@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Saiful%20Islam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Saiful%20Islam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=AI/ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 <img align="right" alt="AI Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**Machine Learning Engineer** with a BSc in Computer Science & Engineering and hands-on experience in deploying end-to-end AI solutions. Currently working as a Junior AI Developer at Sparktech Agency, specializing in LLM integration, RAG pipelines, and scalable GenAI solutions. Passionate about transforming complex problems into innovative AI-driven solutions for real-world applications.
+**AI/ML Engineer** with a BSc in Computer Science & Engineering and hands-on experience in deploying end-to-end AI solutions. Currently working as a Junior AI Developer at Sparktech Agency, specializing in LLM integration, RAG pipelines, and scalable GenAI solutions. Passionate about transforming complex problems into innovative AI-driven solutions for real-world applications.
 
 <br clear="right"/>
 
