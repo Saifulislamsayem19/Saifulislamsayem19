@@ -30,7 +30,7 @@
 
 ## 💼 Professional Experience
 
-### **Junior AI Developer** | Sparktech Agency
+### **AI Developer** | Sparktech Agency
 *March 2025 – Present | Dhaka, Bangladesh*
 
 - Built RAG-based GenAI systems using LangChain, LlamaIndex, and REST APIs with FAISS/Pinecone
