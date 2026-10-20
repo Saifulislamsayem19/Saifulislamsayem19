@@ -1,0 +1,18 @@
+%%{init: {"theme": "base", "themeVariables": {"background": "transparent", "primaryColor": "#13264F", "primaryTextColor": "#E6EDF3", "primaryBorderColor": "#2AD4C6", "lineColor": "#7C5CFF", "secondaryColor": "#1B1F3B", "tertiaryColor": "#0D1117", "fontSize": "15px"}, "htmlLabels": false, "flowchart": {"htmlLabels": false}}}%%
+flowchart LR
+    IN(["Voice or text"]) --> STT["Whisper<br/>speech-to-text"]
+    IN --> API
+    STT --> API["FastAPI<br/>service"]
+    API --> ORCH{{"LangGraph<br/>orchestrator"}}
+    ORCH --> AG["Domain agents"]
+    ORCH --> TL["Tool calls"]
+    AG --> VDB[("Vector DB<br/>FAISS · Pinecone")]
+    VDB --> LLM["LLM<br/>GPT · Claude · Gemini"]
+    TL --> LLM
+    LLM --> OUT(["Answer or speech"])
+    classDef io fill:#0D1117,stroke:#7C5CFF,stroke-width:2px,color:#E6EDF3
+    classDef core fill:#13264F,stroke:#2AD4C6,stroke-width:2px,color:#E6EDF3
+    classDef brain fill:#2A1F5C,stroke:#7C5CFF,stroke-width:2px,color:#FFFFFF
+    class IN,OUT io
+    class STT,API,AG,TL,VDB core
+    class ORCH,LLM brain
