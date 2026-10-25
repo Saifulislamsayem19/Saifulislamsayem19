@@ -1,23 +1,42 @@
-<a id="top"></a>
+ <a id="top"></a>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:2AD4C6%2C100:7C5CFF&height=180&text=Saiful%20Islam&fontSize=72&fontColor=FFFFFF&fontAlignY=46&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20systems%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Voice%20AI&descSize=18&descAlignY=76&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:2AD4C6%2C100:7C5CFF&height=180&text=Saiful%20Islam&fontSize=72&fontColor=0D1117&fontAlignY=46&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20systems%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20Voice%20AI&descSize=18&descAlignY=76&animation=fadeIn" width="100%" alt="Saiful Islam, AI/ML Engineer: LLM systems, RAG, agents and voice AI">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:2AD4C6%2C100:7C5CFF&height=180&text=Saiful%20Islam&fontSize=68&fontColor=FFFFFF&fontAlignY=44&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20LLM%20Systems&descSize=17&descAlignY=74&animation=fadeIn"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&color=0:2AD4C6%2C100:7C5CFF&height=180&text=Saiful%20Islam&fontSize=68&fontColor=0D1117&fontAlignY=44&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20LLM%20Systems&descSize=17&descAlignY=74&animation=fadeIn"
+    width="100%"
+    alt="Saiful Islam | AI/ML Engineer | Generative AI | LLM Systems"
+  />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=2AD4C6&center=true&vCenter=true&width=640&lines=Building+LLM+systems+that+run+in+production;RAG+pipelines+over+50K%2B+documents;Multi-agent+workflows+with+LangGraph;Voice+AI%3A+Whisper+%E2%86%92+LLM+%E2%86%92+speech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=0B7F75&center=true&vCenter=true&width=640&lines=Building+LLM+systems+that+run+in+production;RAG+pipelines+over+50K%2B+documents;Multi-agent+workflows+with+LangGraph;Voice+AI%3A+Whisper+%E2%86%92+LLM+%E2%86%92+speech" alt="Building LLM systems that run in production. RAG pipelines over 50K+ documents. Multi-agent workflows with LangGraph. Voice AI."/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=2AD4C6&center=true&vCenter=true&width=720&lines=Building+LLM-Powered+Applications;RAG+Pipelines+%26+Semantic+Search;AI+Agents+%26+Workflow+Automation;Computer+Vision+%26+NLP+Solutions;Voice+AI+%7C+Speech+%26+Language+Models"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=0B7F75&center=true&vCenter=true&width=720&lines=Building+LLM-Powered+Applications;RAG+Pipelines+%26+Semantic+Search;AI+Agents+%26+Workflow+Automation;Computer+Vision+%26+NLP+Solutions;Voice+AI+%7C+Speech+%26+Language+Models"
+    alt="Building LLM-powered applications, RAG pipelines, AI agents, computer vision, NLP, and voice AI"
+  />
 </picture>
 
-<p>
-<a href="https://linkedin.com/in/saiful2019"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
-<a href="mailto:saifulislamsayem19@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://huggingface.co/spaces/saiful19/LLM-Driven-Real_Estate-Voice-Agent"><img src="https://img.shields.io/badge/Live_demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live demo"/></a>
-<img src="https://komarev.com/ghpvc/?username=Saifulislamsayem19&label=Profile%20views&color=7C5CFF&style=for-the-badge" alt="Profile views"/>
-</p>
+<br/>
+
+<a href="https://linkedin.com/in/saiful2019">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:saifulislamsayem19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Saifulislamsayem19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Saifulislamsayem19&label=Profile%20Views&color=7C5CFF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
