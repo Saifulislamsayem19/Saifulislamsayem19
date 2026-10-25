@@ -27,24 +27,39 @@
 
 <br/>
 
+<!-- Social links -->
+
 <a href="https://linkedin.com/in/saiful2019">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+&nbsp;
 <a href="mailto:saifulislamsayem19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
-<a href="https://github.com/Saifulislamsayem19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Saifulislamsayem19&label=Profile%20Views&color=7C5CFF&style=for-the-badge" alt="Profile views"/>
+&nbsp;
+<img
+  src="https://komarev.com/ghpvc/?username=Saifulislamsayem19&label=PROFILE%20VIEWS&color=7C5CFF&style=for-the-badge"
+  alt="Profile views"
+/>
 
 </div>
 
-## About
- 
-AI engineer who designs and deploys **production-ready AI applications** with large language models, retrieval-augmented generation, prompt engineering, AI agents and LangChain.
- 
-I build AI workflows, reasoning pipelines, vector database solutions, document intelligence systems and REST APIs on **OpenAI, Gemini and Claude** models for scalable enterprise applications. Currently an AI Developer at **Meghna Group of Industries (MGI)** in Dhaka.
+### About Me
+
+AI/ML Engineer focused on building practical AI applications with **Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and machine learning**.
+
+I work across intelligent document retrieval, conversational AI, workflow automation, natural language processing, and computer vision—turning ideas into useful software.
+
+- **Generative AI:** LLM applications, prompt engineering, and RAG pipelines
+- **AI Engineering:** Python, FastAPI, API integration, and deployment
+- **Machine Learning:** NLP, computer vision, and model development
+- **Exploring:** Agentic AI and multi-step AI workflows
 
 ## Experience
  
